@@ -1,0 +1,14 @@
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.exe
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.deps.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.runtimeconfig.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfoInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfo.cs
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\refint\EntradaDeDados.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.genruntimeconfig.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\EntradaDeDados\obj\Debug\net8.0\ref\EntradaDeDados.dll

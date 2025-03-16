@@ -1,0 +1,14 @@
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.exe
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.deps.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.runtimeconfig.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\bin\Debug\net8.0\SaidaDados2.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.AssemblyInfoInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.AssemblyInfo.cs
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\refint\SaidaDados2.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\SaidaDados2.genruntimeconfig.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\SaidaDados2\obj\Debug\net8.0\ref\SaidaDados2.dll

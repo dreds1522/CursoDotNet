@@ -1,0 +1,14 @@
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.exe
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.deps.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.runtimeconfig.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.AssemblyInfoInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.AssemblyInfo.cs
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\refint\TipoDateTime1.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.genruntimeconfig.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\ref\TipoDateTime1.dll

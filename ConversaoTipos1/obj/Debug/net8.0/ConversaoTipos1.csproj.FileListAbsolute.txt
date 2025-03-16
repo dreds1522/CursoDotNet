@@ -1,0 +1,14 @@
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\bin\Debug\net8.0\ConversaoTipos1.exe
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\bin\Debug\net8.0\ConversaoTipos1.deps.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\bin\Debug\net8.0\ConversaoTipos1.runtimeconfig.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\bin\Debug\net8.0\ConversaoTipos1.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\bin\Debug\net8.0\ConversaoTipos1.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.AssemblyInfoInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.AssemblyInfo.cs
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\refint\ConversaoTipos1.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ConversaoTipos1.genruntimeconfig.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\ConversaoTipos1\obj\Debug\net8.0\ref\ConversaoTipos1.dll
