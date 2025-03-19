@@ -1,0 +1,15 @@
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.exe
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.deps.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.runtimeconfig.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfo.cs
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.sourcelink.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\refint\OperadoresAtribuicao.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.genruntimeconfig.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\ref\OperadoresAtribuicao.dll

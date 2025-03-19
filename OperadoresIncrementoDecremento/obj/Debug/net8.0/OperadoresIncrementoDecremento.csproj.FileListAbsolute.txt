@@ -1,0 +1,15 @@
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.exe
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.deps.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.runtimeconfig.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.AssemblyInfoInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.AssemblyInfo.cs
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.csproj.CoreCompileInputs.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.sourcelink.json
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\refint\OperadoresIncrementoDecremento.dll
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.pdb
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.genruntimeconfig.cache
+F:\Projetos\workspace-vs comunity\CSFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\ref\OperadoresIncrementoDecremento.dll
